@@ -16,7 +16,7 @@
 *.rar
 *.tar
 *.zip
-
+*.txt
 *.log
 *.sql
 *.sqlite
