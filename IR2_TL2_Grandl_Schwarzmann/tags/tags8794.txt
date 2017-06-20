@@ -1,0 +1,8 @@
+fog
+mist
+misty
+foggy
+forest
+shadow
+light
+mystical

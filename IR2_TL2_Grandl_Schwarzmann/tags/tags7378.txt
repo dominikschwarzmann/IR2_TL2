@@ -1,0 +1,10 @@
+fight
+jump
+action
+air
+intheair
+model
+duel
+battle
+dance
+kristina

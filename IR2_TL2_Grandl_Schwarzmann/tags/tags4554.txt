@@ -1,0 +1,14 @@
+amarillo
+cadillacranch
+field
+soncy
+texas
+unitedstates
+art
+cadillac
+cars
+geo:lat=3518777700
+geo:lon=10198713200
+geotagged
+sky
+spraypaint

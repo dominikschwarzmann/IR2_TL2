@@ -1,0 +1,15 @@
+kernow
+cornwall
+uk
+northcornwall
+stgennys
+landscape
+sea
+cliff
+coast
+coastal
+march
+2007
+geo:lat=50747535
+geo:lon=4630136
+geotagged

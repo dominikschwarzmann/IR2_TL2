@@ -1,0 +1,11 @@
+fishermenswharf
+hdr
+hdri
+heiwa4126
+japan
+photomatix
+tokyo
+toyosu
+geotagged
+geo:lat=356522108
+geo:lon=1397675686

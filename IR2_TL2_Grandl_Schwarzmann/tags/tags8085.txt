@@ -1,0 +1,8 @@
+bobthelomond
+aiket
+dunlop
+road
+scotland
+geo:lat=55709319
+geo:lon=4565849
+geotagged

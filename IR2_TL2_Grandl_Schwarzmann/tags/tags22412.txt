@@ -1,0 +1,9 @@
+bw
+dark
+blak
+white
+bologna
+galleriaaccursio
+geo:lat=44494749
+geo:lon=11342874
+geotagged

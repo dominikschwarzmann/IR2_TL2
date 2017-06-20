@@ -1,0 +1,11 @@
+gwl
+london
+guesswherelondon
+london2012
+eastlondon
+guessed
+geotagged
+geo:lat=51538633
+geo:lon=0018998
+e15
+guessedbyrobbeer

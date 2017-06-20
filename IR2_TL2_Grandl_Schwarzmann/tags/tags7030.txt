@@ -1,0 +1,4 @@
+paper
+stamp
+carimbo
+papel

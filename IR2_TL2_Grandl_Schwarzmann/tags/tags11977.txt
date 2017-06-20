@@ -1,0 +1,5 @@
+wall
+window
+rust
+square
+squarecrop

@@ -1,0 +1,6 @@
+tortura
+jl07
+to1224
+geotagged
+geo:lat=42895193
+geo:lon=28939

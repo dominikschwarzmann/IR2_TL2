@@ -1,0 +1,8 @@
+dog
+action
+fetch
+jump
+55200mm
+vr
+d40
+flydog

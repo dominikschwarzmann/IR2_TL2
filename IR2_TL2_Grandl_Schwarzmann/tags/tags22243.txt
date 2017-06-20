@@ -1,0 +1,10 @@
+akihabara
+tokyo
+japan
+penguin
+stuffed
+city
+urban
+geo:lat=35699283
+geo:lon=139773651
+geotagged

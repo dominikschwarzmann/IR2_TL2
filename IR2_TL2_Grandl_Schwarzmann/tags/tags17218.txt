@@ -1,0 +1,10 @@
+bench
+seat
+benchseat
+wooden
+design
+light
+shadow
+monochrome
+slats
+chair

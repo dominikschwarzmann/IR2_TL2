@@ -1,0 +1,8 @@
+paper
+back
+vintage
+myscans
+bookcover
+sciencefiction
+sf
+scifi

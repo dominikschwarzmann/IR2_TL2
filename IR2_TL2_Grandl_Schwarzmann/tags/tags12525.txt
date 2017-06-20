@@ -1,0 +1,8 @@
+10
+car
+street
+athens
+greece
+αθήνα
+ελλάδα
+δέκα

@@ -1,0 +1,17 @@
+country
+road
+scene
+good
+day
+clouds
+across
+blue
+sky
+green
+fields
+gentle
+sunlight
+breeze
+work
+drive
+enjoyable

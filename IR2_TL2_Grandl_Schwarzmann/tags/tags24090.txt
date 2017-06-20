@@ -1,0 +1,11 @@
+architecture
+btu
+bibliothek
+cottbus
+library
+geotagged
+geo:tool=gmif
+geo:lat=51767282
+geo:lon=14329487
+ikmz
+germany

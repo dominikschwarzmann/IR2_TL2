@@ -1,0 +1,6 @@
+luzplana
+escaleras
+escalones
+stairs
+steps
+onfocus

@@ -1,0 +1,9 @@
+art
+exhibition
+ikaho
+gunma
+japan
+kusamayayoi
+geo:lat=36502983
+geo:lon=138945318
+geotagged

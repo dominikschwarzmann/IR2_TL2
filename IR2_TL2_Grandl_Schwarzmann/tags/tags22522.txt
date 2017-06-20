@@ -1,0 +1,16 @@
+ionabeach
+vancouver
+bc
+richmond
+west
+coast
+westcoast
+sunset
+beach
+supernatural
+mud
+plyinginthemud
+janusz
+geo:lat=49212719
+geo:lon=123204117
+geotagged

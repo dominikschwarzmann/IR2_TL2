@@ -1,0 +1,8 @@
+nyc
+newyorkcity
+guesswherenyc
+corporation
+nycguessed
+vidiotguessed
+pentax
+k10d

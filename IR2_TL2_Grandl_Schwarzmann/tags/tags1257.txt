@@ -1,0 +1,15 @@
+wandsworthcemetery
+wandsworth
+london
+mosaic
+blue
+sword
+headstone
+gravestone
+grave
+geo:lat=51444142
+geo:lon=018336
+geotagged
+cross
+gold
+explore

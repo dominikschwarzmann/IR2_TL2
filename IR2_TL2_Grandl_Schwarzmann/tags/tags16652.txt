@@ -1,0 +1,4 @@
+tattoo
+arm
+teapot
+tea

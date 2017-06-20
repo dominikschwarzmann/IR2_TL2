@@ -1,0 +1,15 @@
+vehicle
+truck
+ford
+hood
+metal
+rust
+blue
+green
+chrome
+type
+typography
+exterior
+calgary
+alberta
+canada

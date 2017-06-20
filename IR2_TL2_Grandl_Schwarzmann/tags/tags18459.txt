@@ -1,0 +1,11 @@
+d40x
+japan
+tokyo
+drosteeffect
+mathmap
+gimp
+bike
+bicycles
+geotagged
+geo:lat=356532128
+geo:lon=1397446856

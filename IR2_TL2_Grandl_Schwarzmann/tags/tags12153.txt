@@ -1,0 +1,14 @@
+lacuspide
+bench
+banca
+chair
+silla
+metal
+texture
+textura
+mexico
+blackandwhite
+bw
+blancoynegro
+monocromatico
+escaladegrises

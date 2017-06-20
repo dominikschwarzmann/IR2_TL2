@@ -1,0 +1,8 @@
+manila
+makati
+makaticity
+philippines
+mountains
+geo:lat=14588235
+geo:lon=120990372
+geotagged

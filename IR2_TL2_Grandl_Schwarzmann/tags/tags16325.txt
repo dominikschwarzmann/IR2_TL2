@@ -1,0 +1,12 @@
+boats
+karachi
+pakistan
+boatbuilding
+boatmaking
+boatconstruction
+fishri
+kemari
+troller
+fishing
+wood
+textures

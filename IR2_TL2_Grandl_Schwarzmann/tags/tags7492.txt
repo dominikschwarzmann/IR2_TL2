@@ -1,0 +1,8 @@
+fog
+foggy
+rivercam
+bridge
+river
+foggybridge
+blackandwhite
+bw

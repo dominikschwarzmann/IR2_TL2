@@ -1,0 +1,7 @@
+jl07
+sig70200
+warner
+geotagged
+geo:tool=gmif
+geo:lat=40227973
+geo:lon=3590668

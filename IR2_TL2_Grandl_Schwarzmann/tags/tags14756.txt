@@ -1,0 +1,10 @@
+hummingbird
+bird
+feathers
+wing
+flight
+fly
+green
+500v20f
+timothykhamilton
+1000v40f

@@ -1,0 +1,9 @@
+tgv
+train
+buffetcar
+tiles
+crosscountry
+france
+italy
+alps
+flickrplatinum

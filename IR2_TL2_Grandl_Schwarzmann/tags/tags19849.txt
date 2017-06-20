@@ -1,0 +1,9 @@
+2007
+brighton
+blue
+geotagged
+architecture
+concrete
+geo:lat=50820896
+geo:lon=0145344
+architectuur

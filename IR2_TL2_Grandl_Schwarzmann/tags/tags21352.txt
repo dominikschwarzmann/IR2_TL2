@@ -1,0 +1,14 @@
+d40x
+japan
+tokyo
+panorama
+panoramic
+hugin
+stereographic
+nedu
+shrine
+360°
+360x180
+geotagged
+geo:lat=35719719
+geo:lon=139760466

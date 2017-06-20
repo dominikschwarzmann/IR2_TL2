@@ -1,0 +1,6 @@
+blue
+yellow
+wall
+telaviv
+texture
+abstract

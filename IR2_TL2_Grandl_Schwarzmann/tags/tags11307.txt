@@ -1,0 +1,5 @@
+asus
+eee
+laptop
+eeepc
+linux

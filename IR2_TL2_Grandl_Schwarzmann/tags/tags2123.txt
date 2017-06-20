@@ -1,0 +1,6 @@
+catpower
+bogota
+live
+colombia
+setlist
+lastfm:event=523440

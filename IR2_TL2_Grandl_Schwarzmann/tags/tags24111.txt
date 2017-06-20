@@ -1,0 +1,4 @@
+dog
+greyhound
+stretch
+downwarddog

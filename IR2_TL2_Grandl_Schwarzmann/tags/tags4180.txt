@@ -1,0 +1,6 @@
+light
+shadows
+details
+steps
+stairs
+blueribbonwinner

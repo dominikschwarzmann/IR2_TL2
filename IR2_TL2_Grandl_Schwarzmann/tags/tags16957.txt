@@ -1,0 +1,11 @@
+shinbashi
+yms656
+e300
+zd
+50mmmacro20
+bw
+night
+street
+geo:lat=356676325
+geo:lon=1397573217
+geotagged

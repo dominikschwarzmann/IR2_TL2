@@ -1,0 +1,7 @@
+led
+throwie
+transistor
+resistor
+phototransistor
+sensor
+nightlight

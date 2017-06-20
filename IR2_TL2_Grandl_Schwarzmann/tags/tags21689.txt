@@ -1,0 +1,12 @@
+notetoself
+architecture
+door
+pattern
+sign
+red
+yellow
+hallway
+lights
+light
+lamp
+interestingness

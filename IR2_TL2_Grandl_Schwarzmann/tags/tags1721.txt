@@ -1,0 +1,8 @@
+manila
+philipines
+makati
+skyline
+clouds
+geo:lat=14607837
+geo:lon=121007967
+geotagged

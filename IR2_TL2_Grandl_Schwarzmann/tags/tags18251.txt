@@ -1,0 +1,6 @@
+rocks
+sky
+trees
+storm
+green
+blue

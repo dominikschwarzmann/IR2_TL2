@@ -1,0 +1,12 @@
+2007
+cntower
+coopcabs
+gavanwatson
+kingstreet
+october
+taxi
+toronto
+geo:lat=43646044
+geo:lon=79392609
+geotagged
+kingpeter

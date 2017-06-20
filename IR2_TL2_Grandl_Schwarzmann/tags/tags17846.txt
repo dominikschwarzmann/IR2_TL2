@@ -1,0 +1,12 @@
+transformers
+revoltech
+optimus
+prime
+convoy
+autobot
+cybertron
+toy
+action
+figure
+ultra
+magnus

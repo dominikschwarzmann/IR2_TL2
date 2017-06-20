@@ -1,0 +1,6 @@
+transformers
+ultra
+magnus
+revoltech
+wstf
+minime

@@ -1,0 +1,13 @@
+lake
+lakeneedwood
+geotagged
+geo:lat=39126690
+geo:lon=77128891
+ir
+sonyf707infrared
+715nm
+3px
+hdr
+highdynamicrange
+infrared
+needwood

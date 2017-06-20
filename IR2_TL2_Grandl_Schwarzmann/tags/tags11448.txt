@@ -1,0 +1,11 @@
+sky
+cloud
+water
+lake
+mountain
+exterior
+alberta
+canada
+louise
+lakelouise
+glacier

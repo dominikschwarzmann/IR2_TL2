@@ -1,0 +1,10 @@
+30d
+macro
+amigos
+ojos
+eyes
+iris
+orejas
+lupa
+sigma
+dof

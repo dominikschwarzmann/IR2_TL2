@@ -1,0 +1,6 @@
+desert
+shadow
+levitation
+geo:lat=30856995
+geo:lon=34824085
+geotagged

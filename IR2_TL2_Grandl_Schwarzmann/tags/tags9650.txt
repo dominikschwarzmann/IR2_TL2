@@ -1,0 +1,10 @@
+berlin
+night
+nightshot
+illumination
+myfavorites
+geo:lat=52520021
+geo:lon=1329586
+geotagged
+castle
+charlottenburg

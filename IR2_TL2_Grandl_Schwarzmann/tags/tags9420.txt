@@ -1,0 +1,7 @@
+canon
+40d
+room
+self
+portrait
+mirror
+double

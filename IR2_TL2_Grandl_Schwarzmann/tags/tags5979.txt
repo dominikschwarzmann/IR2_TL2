@@ -1,0 +1,13 @@
+abandoned
+sardegna
+santacaterina
+centraleelettrica
+santantioco
+sardinia
+sangiovannisuergiu
+decayed
+archeologiaindustriale
+geo:lat=39089651
+geo:lon=8487711
+geotagged
+cerdeña

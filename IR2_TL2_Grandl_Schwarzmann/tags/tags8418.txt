@@ -1,0 +1,11 @@
+poagao
+taiwan
+night
+beiyi
+road
+crosswalk
+overpass
+geotagged
+geo:tool=yuancc
+geo:lat=24953276
+geo:lon=121540643

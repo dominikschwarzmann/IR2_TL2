@@ -1,0 +1,11 @@
+tram
+tramway
+streetcar
+strassenbahn
+basel
+switzerland
+green
+bvb
+трамвай
+швейцария
+базель

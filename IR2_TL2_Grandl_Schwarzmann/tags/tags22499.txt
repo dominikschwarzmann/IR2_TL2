@@ -1,0 +1,7 @@
+light
+traffic
+trafficlight
+sign
+wall
+barcelona
+bravo

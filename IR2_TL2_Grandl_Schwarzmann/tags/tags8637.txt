@@ -1,0 +1,6 @@
+standard
+poodle
+dog
+red
+standardpoodle
+bestinshow

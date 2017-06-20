@@ -1,0 +1,9 @@
+architecture
+building
+structure
+residential
+toronto
+downtown
+ddoi
+ontario
+canada

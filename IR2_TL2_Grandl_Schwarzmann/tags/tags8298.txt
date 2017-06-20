@@ -1,0 +1,8 @@
+grey
+pattern
+tartan
+diamonds
+wit
+unguessed
+witscored
+witstarred

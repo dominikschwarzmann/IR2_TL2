@@ -1,0 +1,7 @@
+wedding
+caerphilly
+castle
+wales
+geotagged
+geo:lat=5157611933287211
+geo:lon=3219338162651163

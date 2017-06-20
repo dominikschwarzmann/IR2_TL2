@@ -1,0 +1,5 @@
+pug
+pippa
+dog
+animal
+monterey

@@ -1,0 +1,13 @@
+d40x
+japan
+fukuoka
+hakata
+nakasu
+panorama
+panoramic
+hugin
+360°
+stereographic
+geotagged
+geo:lat=335911747
+geo:lon=1304033578

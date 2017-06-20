@@ -1,0 +1,7 @@
+red
+rosso
+trafficlight
+semaforo
+roma
+rome
+denied

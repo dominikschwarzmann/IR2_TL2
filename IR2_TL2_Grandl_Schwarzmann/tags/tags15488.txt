@@ -1,0 +1,14 @@
+helsinki
+finland
+flow
+flow07
+flow2007
+flowfestival
+sörnäinen
+suvilahti
+chkchkchk
+lastfm:event=195087
+chikchikchik
+geotagged
+geo:lat=6018654956420646
+geo:lon=2497105775600427

@@ -1,0 +1,9 @@
+unterdenlinden
+2007
+berlin
+festivaloflights
+geotagged
+geo:tool=gmif
+geo:lat=52516823
+geo:lon=13386375
+great123

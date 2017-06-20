@@ -1,0 +1,14 @@
+lomo
+fisheye
+2
+lomokev
+kevin
+meredith
+beard
+night
+agfa
+100asa
+ultra
+flash
+flickr:user=lomokev
+flickr:nsid=40962351n00

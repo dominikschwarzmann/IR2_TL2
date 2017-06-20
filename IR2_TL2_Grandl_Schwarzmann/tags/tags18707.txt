@@ -1,0 +1,6 @@
+bike
+bicycle
+vintage
+singlespeed
+fixedgear
+fixedwheel

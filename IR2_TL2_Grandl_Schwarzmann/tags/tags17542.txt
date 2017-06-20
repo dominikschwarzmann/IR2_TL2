@@ -1,0 +1,17 @@
+bleu
+blue
+rouge
+red
+cercle
+circle
+hermès
+reflet
+reflection
+ville
+town
+rouen
+normandie
+normandy
+10f
+15f
+20f

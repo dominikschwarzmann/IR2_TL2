@@ -1,0 +1,10 @@
+pet
+pets
+hammy
+hamster
+hamsters
+rodent
+rodents
+button
+buttons
+cute

@@ -1,0 +1,6 @@
+strobist
+lighting102
+assignment
+umbrella
+specular
+final

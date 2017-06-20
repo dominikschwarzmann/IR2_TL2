@@ -1,0 +1,7 @@
+bw
+sky
+concrete
+berlin
+geo:lat=52520637
+geo:lon=13378244
+geotagged

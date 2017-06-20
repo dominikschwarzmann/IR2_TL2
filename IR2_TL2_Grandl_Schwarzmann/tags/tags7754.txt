@@ -1,0 +1,5 @@
+puzzle
+1000
+pieces
+50mm
+table

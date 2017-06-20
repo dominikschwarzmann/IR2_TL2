@@ -1,0 +1,10 @@
+square
+nobody
+street
+mexicocity
+obstacle
+hollow
+somewhere
+structure
+found
+before

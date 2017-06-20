@@ -1,0 +1,11 @@
+girl
+city
+tiles
+boots
+bag
+tights
+skirt
+shops
+streets
+busy
+shoppers

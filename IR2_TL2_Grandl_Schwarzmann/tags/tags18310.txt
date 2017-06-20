@@ -1,0 +1,6 @@
+sky
+clouds
+sunset
+weather
+storm
+thunderstorm

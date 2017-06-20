@@ -1,0 +1,9 @@
+gx100
+shadow
+street
+road
+pavement
+edge
+tilt
+green
+link

@@ -1,0 +1,6 @@
+getty
+gettycenter
+architecture
+minimal
+abstract
+building

@@ -1,0 +1,11 @@
+poagao
+japan
+tokyo
+ueno
+mirror
+glass
+reflection
+geotagged
+geo:tool=yuancc
+geo:lat=35710825
+geo:lon=139776855

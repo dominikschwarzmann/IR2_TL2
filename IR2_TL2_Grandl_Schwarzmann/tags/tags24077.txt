@@ -1,0 +1,6 @@
+bike
+bicycle
+fixedgear
+roadbike
+sturmeyarcher
+3speed

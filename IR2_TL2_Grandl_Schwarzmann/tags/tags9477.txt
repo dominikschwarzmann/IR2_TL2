@@ -1,0 +1,7 @@
+grdigital
+bw
+square
+cropped
+empty
+garage
+concrete

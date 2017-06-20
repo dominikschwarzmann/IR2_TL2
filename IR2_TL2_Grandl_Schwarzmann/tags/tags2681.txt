@@ -1,0 +1,15 @@
+fire
+fireball
+flame
+pyro
+pyrotechnic
+explosion
+gas
+heat
+hot
+incinerate
+explosive
+explode
+bomb
+burst
+boom

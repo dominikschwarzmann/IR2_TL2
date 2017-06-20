@@ -1,0 +1,5 @@
+pug
+pugs
+milantrain
+dog
+dogs

@@ -1,0 +1,8 @@
+mask
+raw
+wrestling
+geotagged
+geo:lat=41779823
+geo:lon=71437280
+geo:alt=19000000
+geonames:feature=5221659

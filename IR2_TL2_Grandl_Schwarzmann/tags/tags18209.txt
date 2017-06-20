@@ -1,0 +1,9 @@
+holga
+120fn
+tmax
+400
+bobby
+35mm
+sprocket
+holes
+120n

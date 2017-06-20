@@ -1,0 +1,15 @@
+icecream
+dessert
+delicious
+yummy
+chocolate
+icecreamsandwich
+klondikebar
+dairy
+cookie
+frozen
+vanilla
+food
+sweet
+creamy
+utata:project=upfaves

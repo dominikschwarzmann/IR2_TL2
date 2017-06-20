@@ -1,0 +1,13 @@
+black
+white
+bw
+bn
+mire
+abandonedplace
+innocenti
+sepia
+acrobat
+balance
+edge
+dance
+abigfave

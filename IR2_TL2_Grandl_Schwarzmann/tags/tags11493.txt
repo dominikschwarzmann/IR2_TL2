@@ -1,0 +1,15 @@
+360°
+hdr
+hdri
+japan
+panorama
+panoramic
+stereograpic
+tokyo
+tokyobaybridge
+geotagged
+geo:lat=356382325
+geo:lon=139757555
+photomatix
+nodalninja
+stereographic

@@ -1,0 +1,14 @@
+boat
+port
+oldport
+iraklion
+crete
+greece
+heraklion
+iraklio
+canoneos400d
+canonef35mmf2
+geo:lat=35342837
+geo:lon=25137711
+geotagged
+ysplix

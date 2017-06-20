@@ -1,0 +1,9 @@
+mdpd2007
+mdpd200707
+mdpd:pick=11
+mdpd:pick=july
+pugs
+lakestpeter
+clara
+otis
+boy

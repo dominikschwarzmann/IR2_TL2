@@ -1,0 +1,7 @@
+ford
+galaxy
+convertible
+car
+auto
+automobile
+1965

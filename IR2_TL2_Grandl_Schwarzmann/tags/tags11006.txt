@@ -1,0 +1,11 @@
+wall
+sign
+hebrew
+blue
+grey
+yellow
+number
+seven
+7
+peeling
+ugly

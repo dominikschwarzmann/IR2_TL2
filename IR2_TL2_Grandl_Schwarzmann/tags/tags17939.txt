@@ -1,0 +1,6 @@
+fire
+campfire
+firelogs
+hot
+red
+glow

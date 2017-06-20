@@ -1,0 +1,10 @@
+squaredcircle
+squircle
+receptacle
+close
+open
+foundface
+face
+electric
+electricity
+yellow

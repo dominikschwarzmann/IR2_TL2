@@ -1,0 +1,7 @@
+orange
+locks
+keys
+wall
+shutter
+shop
+explore

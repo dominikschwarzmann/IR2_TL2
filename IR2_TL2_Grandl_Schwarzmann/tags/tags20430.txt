@@ -1,0 +1,13 @@
+d40x
+japan
+tokyo
+shinbashi
+panorama
+panoramic
+360°
+360x180
+hugin
+equirectangular
+geotagged
+geo:lat=356649194
+geo:lon=1397607278

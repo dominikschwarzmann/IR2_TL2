@@ -1,0 +1,8 @@
+food
+edible
+canonpowershotsd1000
+canon
+indoors
+notoutside
+explore
+explored

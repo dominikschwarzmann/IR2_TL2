@@ -1,0 +1,9 @@
+bilbao
+solokoetxe
+escaleras
+jl08
+to1224
+zuribeltza
+geo:lat=43257182
+geo:lon=2921843
+geotagged

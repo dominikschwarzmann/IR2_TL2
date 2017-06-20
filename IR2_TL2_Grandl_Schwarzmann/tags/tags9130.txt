@@ -1,0 +1,12 @@
+jl07
+to1224
+oteiza
+eskultura
+bilbao
+geotagged
+geo:tool=gmif
+geo:lat=43263690
+geo:lon=2923618
+geo:lat=43263706
+geo:lon=2923844
+zuribeltza

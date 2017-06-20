@@ -1,0 +1,8 @@
+clouds
+uplift
+isleofwight
+adiabatic
+geographicuplift
+geo:lat=5066524
+geo:lon=1546583
+geotagged

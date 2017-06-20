@@ -1,0 +1,6 @@
+square
+ring
+rust
+decay
+water
+ground

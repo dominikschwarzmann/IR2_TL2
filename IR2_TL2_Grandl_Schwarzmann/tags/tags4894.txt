@@ -1,0 +1,13 @@
+kyoto
+japan
+daikakuji
+temple
+大覚寺
+picnik
+京都
+紅葉
+rouge
+jaune
+geo:lat=350283411
+geo:lon=1356790903
+geotagged

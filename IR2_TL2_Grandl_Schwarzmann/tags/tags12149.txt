@@ -1,0 +1,7 @@
+art
+artist
+journal
+create
+challenge
+daily
+moleskine

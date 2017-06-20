@@ -1,0 +1,5 @@
+flowers
+yellow
+sky
+cloud
+blue

@@ -1,0 +1,7 @@
+window
+light
+blackwhite
+oblique
+mind
+obliquamente
+obliquemind

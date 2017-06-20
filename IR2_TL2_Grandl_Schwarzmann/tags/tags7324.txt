@@ -1,0 +1,15 @@
+billerica
+massachusetts
+mills
+talbotmills
+concord
+river
+water
+oldmills
+concordriver
+geo:lat=42591416
+geo:lon=71284318
+geotagged
+bluesky
+brickbuilding
+skyarchitecture

@@ -1,0 +1,8 @@
+sparkler
+sparklers
+long
+exposure
+dark
+night
+bright
+exposures

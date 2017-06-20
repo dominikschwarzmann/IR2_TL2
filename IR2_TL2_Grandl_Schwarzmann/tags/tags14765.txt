@@ -1,0 +1,6 @@
+truck
+bus
+roadtrain
+lüzern
+ford
+verkehrshaus

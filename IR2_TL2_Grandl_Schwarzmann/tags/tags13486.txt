@@ -1,0 +1,4 @@
+book
+illustrations
+kidsbooks
+childrensbooks

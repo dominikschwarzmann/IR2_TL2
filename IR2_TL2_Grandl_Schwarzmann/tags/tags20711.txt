@@ -1,0 +1,7 @@
+cruise
+ship
+lookout
+tower
+bahamas
+ocean
+tropical

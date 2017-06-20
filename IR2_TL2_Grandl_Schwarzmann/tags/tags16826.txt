@@ -1,0 +1,5 @@
+theitemswecarry
+glock
+keys
+phone
+wallet

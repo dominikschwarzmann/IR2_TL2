@@ -1,0 +1,8 @@
+motorcycle
+bikes
+ducati
+sport
+sportclassic
+1000
+sea
+beach

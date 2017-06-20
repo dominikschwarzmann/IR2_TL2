@@ -1,0 +1,5 @@
+tree
+leaf
+red
+sky
+cloud

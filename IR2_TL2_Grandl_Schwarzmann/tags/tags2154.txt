@@ -1,0 +1,6 @@
+wsj
+oldmedia
+printmedia
+newspaper
+subscription
+wallstreetjournal

@@ -1,0 +1,9 @@
+cytology
+squamous
+carcinoma
+mitosis
+tripolar
+atypical
+pathology
+specimen
+photomicrograph

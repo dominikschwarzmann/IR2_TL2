@@ -1,0 +1,8 @@
+signals
+train
+railroad
+bnsf
+night
+downersgrove
+nikond50
+24120mmf3556nikkor

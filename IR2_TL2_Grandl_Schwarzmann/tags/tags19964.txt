@@ -1,0 +1,8 @@
+brick
+angles
+shadow
+pigeon
+foundinsf
+geotagged
+geo:lat=3778874
+geo:lon=12240695

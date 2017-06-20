@@ -1,0 +1,16 @@
+germany
+deutschland
+berlin
+mitte
+alexanderplatz
+alex
+fernsehturm
+tvtower
+splittoning
+postprocessed
+2007epmeetup
+geotagged
+hdr
+original:filename=2007090720d027666027671hdr8splittoning
+geo:lat=52520838
+geo:lon=13409455

@@ -1,0 +1,13 @@
+plane
+white
+blue
+red
+avion
+blanc
+bleu
+rouge
+airport
+aéroport
+newyork
+usa
+jfk

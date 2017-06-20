@@ -1,0 +1,8 @@
+food
+breakfast
+banana
+berries
+granola
+milk
+cereal
+home

@@ -1,0 +1,10 @@
+3
+cable
+voltaje
+insulators
+tension
+protective
+cover
+pole
+electricity
+lightningrod

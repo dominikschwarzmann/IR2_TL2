@@ -1,0 +1,11 @@
+nationalshrine
+basilica
+immaculate
+conception
+graduation
+fountain
+church
+dcist
+geo:lat=38934401
+geo:lon=77001468
+geotagged

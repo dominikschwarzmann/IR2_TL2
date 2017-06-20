@@ -1,0 +1,6 @@
+celery
+snack
+fridge
+light
+ego
+365days

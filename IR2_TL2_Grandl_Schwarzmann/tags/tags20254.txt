@@ -1,0 +1,14 @@
+laundromat
+mountvernon
+nikond50
+indoors
+blackandwhite
+sigma2870mm
+dryers
+baltimore
+geo:lat=39297898
+geo:lon=7661417
+geotagged
+square
+crop
+myfavorites

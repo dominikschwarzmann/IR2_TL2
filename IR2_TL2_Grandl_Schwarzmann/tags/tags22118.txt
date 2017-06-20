@@ -1,0 +1,17 @@
+tape
+mc
+c90
+tdk
+magnetictape
+cassete
+mixtape
+spool
+two
+reels
+spools
+magnetic
+90minutes
+walkman
+pavement
+explore
+scout

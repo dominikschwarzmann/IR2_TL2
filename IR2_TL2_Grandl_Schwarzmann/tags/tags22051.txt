@@ -1,0 +1,5 @@
+diagonal
+dumpster
+flat
+urban
+geometry

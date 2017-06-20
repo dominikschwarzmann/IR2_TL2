@@ -1,0 +1,7 @@
+window
+old
+lead
+wood
+nails
+glass
+reflection

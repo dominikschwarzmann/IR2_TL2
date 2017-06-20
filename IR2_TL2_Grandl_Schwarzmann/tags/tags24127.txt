@@ -1,0 +1,7 @@
+building
+architecture
+glass
+window
+blue
+norwest
+sydney

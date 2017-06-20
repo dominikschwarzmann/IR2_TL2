@@ -1,0 +1,9 @@
+colores
+macro
+blanco
+verde
+azul
+rojo
+amarillo
+mostacillas
+mano

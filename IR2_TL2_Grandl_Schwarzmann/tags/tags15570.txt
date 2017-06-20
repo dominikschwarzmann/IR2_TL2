@@ -1,0 +1,10 @@
+denver
+wall
+fireescape
+stairs
+window
+yellow
+bricks
+ortho
+shadow
+diagonal

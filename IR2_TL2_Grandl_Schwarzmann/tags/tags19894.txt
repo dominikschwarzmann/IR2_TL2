@@ -1,0 +1,9 @@
+stone
+rock
+bench
+leaves
+somesortofweedthing
+thursdaywalk
+utata:project=tw60
+shadow
+green

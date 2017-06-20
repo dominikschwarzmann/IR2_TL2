@@ -1,0 +1,9 @@
+f710
+night
+musashikosugi
+bw
+mirror
+self
+geotagged
+geo:lat=355771136
+geo:lon=1396556675

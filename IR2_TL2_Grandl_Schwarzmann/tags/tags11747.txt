@@ -1,0 +1,4 @@
+attempt
+slow
+shutter
+speed

@@ -1,0 +1,11 @@
+yellow
+wiring
+electricalwiring
+red
+green
+earthwire
+missing
+socket
+wall
+shadow
+cheesekicksass

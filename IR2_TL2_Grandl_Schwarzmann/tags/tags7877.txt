@@ -1,0 +1,10 @@
+cassette
+k7
+electrical
+maintenance
+hifi
+battery
+tape
+plastic
+circuitboard
+pcb

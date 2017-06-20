@@ -1,0 +1,11 @@
+asus
+eeepc
+eee
+gadget
+laptop
+umpc
+notebook
+linux
+treo
+palm
+smartphone

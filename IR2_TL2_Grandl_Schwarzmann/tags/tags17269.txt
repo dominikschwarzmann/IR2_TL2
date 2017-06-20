@@ -1,0 +1,10 @@
+nursery
+kidsroom
+bed
+toys
+books
+home
+decor
+furniture
+interior
+liberty

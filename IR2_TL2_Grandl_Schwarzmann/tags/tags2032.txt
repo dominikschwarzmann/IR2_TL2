@@ -1,0 +1,7 @@
+canon
+magenta
+toner
+cartridge
+weapon
+printer
+gun

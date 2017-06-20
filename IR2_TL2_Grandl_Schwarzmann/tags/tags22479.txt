@@ -1,0 +1,12 @@
+stealth
+vancouver
+canada
+kanada
+explore
+interestingness
+yvr
+janusz
+friendlychallenges
+geo:lat=49199485
+geo:lon=123149529
+geotagged

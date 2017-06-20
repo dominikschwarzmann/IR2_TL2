@@ -1,0 +1,4 @@
+portrait
+black
+white
+chile

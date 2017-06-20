@@ -1,0 +1,10 @@
+bus
+blue
+red
+stop
+sign
+hebrew
+text
+hammers
+תמונהבתזונה
+p

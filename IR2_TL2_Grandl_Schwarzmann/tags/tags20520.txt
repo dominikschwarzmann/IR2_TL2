@@ -1,0 +1,7 @@
+leaves
+colors
+blue
+yellow
+green
+wood
+digital

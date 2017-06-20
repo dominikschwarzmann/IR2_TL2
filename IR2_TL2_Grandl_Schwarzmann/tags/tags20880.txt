@@ -1,0 +1,12 @@
+singapore
+hdr
+3exp
+easyhdr
+arabstreet
+shophouses
+architecture
+mosque
+sultanmosque
+geo:lat=130106
+geo:lon=103859628
+geotagged

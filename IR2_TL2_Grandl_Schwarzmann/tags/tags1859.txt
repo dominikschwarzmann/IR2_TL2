@@ -1,0 +1,8 @@
+nippon
+kogaku
+nikkors
+50
+14
+d100
+dof
+bokeh

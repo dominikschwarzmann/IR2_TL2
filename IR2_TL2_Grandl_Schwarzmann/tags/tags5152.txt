@@ -1,0 +1,11 @@
+caida
+insecto
+bichos
+mosca
+muerte
+alas
+insects
+bug
+fly
+dead
+explore

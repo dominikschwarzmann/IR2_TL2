@@ -1,0 +1,11 @@
+computer
+hardware
+retro
+tandy
+trs80
+radioshack
+z80
+8bit
+trsdos
+cpm
+ldos

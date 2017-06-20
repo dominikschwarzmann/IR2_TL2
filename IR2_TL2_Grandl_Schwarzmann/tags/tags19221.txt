@@ -1,0 +1,8 @@
+rosso
+red
+verde
+green
+natura
+nature
+fiore
+flower

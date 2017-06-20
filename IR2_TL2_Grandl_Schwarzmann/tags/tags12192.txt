@@ -1,0 +1,4 @@
+detail
+casual
+bw
+lock

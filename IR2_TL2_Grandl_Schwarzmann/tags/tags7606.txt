@@ -1,0 +1,7 @@
+jl08
+huerta
+to1224
+geotagged
+geo:tool=gmif
+geo:lat=40967367
+geo:lon=5470258

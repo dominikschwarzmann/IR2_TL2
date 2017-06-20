@@ -1,0 +1,7 @@
+poland
+baroque
+świętalipka
+heiligelinde
+geotagged
+geo:lat=54024310
+geo:lon=21216660

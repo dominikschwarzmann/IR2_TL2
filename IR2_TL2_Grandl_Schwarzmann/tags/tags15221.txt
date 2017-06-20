@@ -1,0 +1,13 @@
+adn
+paginasamarillas
+domus
+museo
+coruña
+acoruña
+galicia
+spain
+españa
+dsch2
+geotagged
+geo:lat=43376473
+geo:lon=8405389

@@ -1,0 +1,5 @@
+myscans
+bookcover
+scifi
+sciencefiction
+paperback

@@ -1,0 +1,9 @@
+newyorkcity
+newyork
+manhattan
+purple
+glass
+pavement
+vaultlight
+prismglass
+sidewalklight

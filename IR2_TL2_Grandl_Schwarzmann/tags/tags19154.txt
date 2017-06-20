@@ -1,0 +1,7 @@
+warnerbrothersworld
+goldcoast
+australia
+catwoman
+geo:lat=27907172
+geo:lon=153311634
+geotagged

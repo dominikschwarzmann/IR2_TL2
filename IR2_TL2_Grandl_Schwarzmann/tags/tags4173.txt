@@ -1,0 +1,5 @@
+mascotas
+pets
+animales
+animals
+hurón

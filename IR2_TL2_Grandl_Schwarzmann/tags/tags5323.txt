@@ -1,0 +1,9 @@
+jl08
+iruña
+sig70200
+lainoa
+tq
+geo:lat=4281744
+geo:lon=1642059
+geotagged
+abigfave

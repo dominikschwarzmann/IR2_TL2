@@ -1,0 +1,7 @@
+house
+radiator
+dresser
+books
+door
+window
+bookshelves

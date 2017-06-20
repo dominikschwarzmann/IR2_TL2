@@ -1,0 +1,6 @@
+sketch
+drawing
+pencil
+city
+brooklyn
+nyc

@@ -1,0 +1,7 @@
+child
+skeleton
+composite
+texture
+scratch
+spooky
+bones

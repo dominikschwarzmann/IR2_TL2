@@ -1,0 +1,4 @@
+toronto
+mississauga
+sunny
+cloudy

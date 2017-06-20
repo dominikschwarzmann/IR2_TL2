@@ -1,0 +1,11 @@
+canoepass
+westhamisland
+delta
+bc
+canada
+geo:lat=49081006
+geo:lon=123130217
+geotagged
+fraserriver
+betterthangood
+supershot

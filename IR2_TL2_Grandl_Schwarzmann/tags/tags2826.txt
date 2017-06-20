@@ -1,0 +1,10 @@
+mist
+fog
+graveyard
+backyard
+hanover
+newhampshire
+newengland
+trees
+forest
+snow

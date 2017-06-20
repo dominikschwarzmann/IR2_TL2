@@ -1,0 +1,16 @@
+yahoosunnyvale
+interior
+zonetag
+cameraphone
+sunnyvale
+california
+zip94089
+usa
+geo:city=sunnyvale
+geo:state=california
+geo:zip=94089
+geo:country=usa
+celltagged
+cell:cgi=310380603737521
+stickfigures
+stickfiguresinperil

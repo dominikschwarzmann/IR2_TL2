@@ -1,0 +1,6 @@
+automobile
+italia
+italy
+car
+auto
+fiat500

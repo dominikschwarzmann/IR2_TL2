@@ -1,0 +1,13 @@
+burg
+castle
+castelo
+eltz
+burgeltz
+deutschland
+alemanha
+geo:lat=50207286
+geo:lon=7336721
+geo:zoom=16
+geotagged
+address:iso=de
+address:country=deutschland

@@ -1,0 +1,8 @@
+uci
+worldcup
+lavelodrome
+velodrome
+trackcycling
+adteventcenter
+trackracing
+uciworldcup

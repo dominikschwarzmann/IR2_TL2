@@ -1,0 +1,10 @@
+vienna
+birdseyeview
+rüdigerhof
+geo:lat=48195302
+geo:lon=16355274
+geotagged
+guessedvienna
+café
+amysapartment
+wien

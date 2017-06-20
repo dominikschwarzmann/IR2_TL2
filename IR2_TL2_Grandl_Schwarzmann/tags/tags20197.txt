@@ -1,0 +1,14 @@
+ogliastra
+sardinia
+sardegna
+italy
+italia
+torre
+di
+barì
+bari
+sardo
+barisardo
+geo:lat=39832647
+geo:lon=9681959
+geotagged

@@ -1,0 +1,5 @@
+dashboard
+gps
+ridephotos
+bicycle
+fast

@@ -1,0 +1,7 @@
+macro
+day
+beach
+last
+summer
+turtle
+dinosaur

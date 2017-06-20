@@ -1,0 +1,10 @@
+bird
+oiseau
+crow
+raven
+corneille
+corbeau
+soul
+ame
+tree
+arbre

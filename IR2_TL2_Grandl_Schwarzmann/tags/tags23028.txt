@@ -1,0 +1,5 @@
+bike
+bicycle
+lane
+berlin
+pavement

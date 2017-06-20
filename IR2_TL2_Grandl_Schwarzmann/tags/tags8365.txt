@@ -1,0 +1,10 @@
+hdr
+panorama
+montreal
+city
+wall
+snow
+abandoned
+decay
+neige
+fisheye

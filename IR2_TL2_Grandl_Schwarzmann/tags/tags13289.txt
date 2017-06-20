@@ -1,0 +1,3 @@
+semapedia
+stonetag
+qrcode

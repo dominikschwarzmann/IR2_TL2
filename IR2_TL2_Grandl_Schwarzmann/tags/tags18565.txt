@@ -1,0 +1,8 @@
+cast
+arm
+skeleton
+art
+carpal
+metacarpal
+phalanges
+paint

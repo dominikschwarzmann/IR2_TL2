@@ -1,0 +1,11 @@
+rollei
+minidigi
+digital
+korea
+seoul
+itaewon
+2008
+geotagged
+geo:tool=yuancc
+geo:lat=37538125
+geo:lon=126998493

@@ -1,0 +1,8 @@
+minimal
+pastoral
+sheep
+grazing
+pasture
+rural
+texture
+layers

@@ -1,0 +1,13 @@
+irlanda
+ireland
+ferns
+gasolinera
+silla
+chair
+puerta
+door
+nikon
+geotagged
+geo:lat=5258886
+geo:lon=6497933
+wexford

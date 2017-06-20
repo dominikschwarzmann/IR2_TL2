@@ -1,0 +1,12 @@
+bicycle
+sign
+corridor
+concrete
+gurdrail
+salzburg
+station
+europe
+austria
+travel
+trip
+train

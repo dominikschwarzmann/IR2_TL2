@@ -1,0 +1,5 @@
+walls
+cracked
+paint
+stkilda
+explore

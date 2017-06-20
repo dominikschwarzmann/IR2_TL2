@@ -1,0 +1,9 @@
+motosumiyoshi
+bw
+yms656
+e300
+zd
+50mmmacro20
+geo:lat=355649408
+geo:lon=1396544217
+geotagged

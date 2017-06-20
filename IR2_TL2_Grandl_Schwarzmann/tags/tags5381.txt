@@ -1,0 +1,4 @@
+sign
+novideo
+photo
+photosonly

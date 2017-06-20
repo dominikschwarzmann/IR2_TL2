@@ -1,0 +1,7 @@
+canon
+400d
+eos
+camera
+digitalcamera
+dslr
+digitalsinglelensreflex

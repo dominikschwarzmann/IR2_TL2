@@ -1,0 +1,8 @@
+nyc
+newyork
+street
+night
+taxi
+cab
+avision
+betterthangood

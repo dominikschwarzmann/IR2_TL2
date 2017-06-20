@@ -1,0 +1,16 @@
+dog
+mercury
+silver
+standard
+poodle
+standardpoodle
+injury
+foot
+bandage
+laceration
+stitches
+wound
+wounded
+ouch
+painful
+ligament

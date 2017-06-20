@@ -1,0 +1,8 @@
+nokian95
+shotgunmicrophone
+external
+microphone
+audio
+test
+bathroom
+sound

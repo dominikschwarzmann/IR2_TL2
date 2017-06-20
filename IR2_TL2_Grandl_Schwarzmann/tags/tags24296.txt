@@ -1,0 +1,11 @@
+light
+star
+fixture
+lightfixture
+porch
+tag1
+tag2
+tag3
+taggedout
+maydelle
+maydelletexas

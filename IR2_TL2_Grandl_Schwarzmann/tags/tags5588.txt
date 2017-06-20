@@ -1,0 +1,10 @@
+kind
+child
+man
+berlin
+contrast
+kontrast
+trees
+forest
+baum
+wald

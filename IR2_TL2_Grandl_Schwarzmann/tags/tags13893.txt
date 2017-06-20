@@ -1,0 +1,10 @@
+jiyugaoka
+e300
+night
+bw
+yms656
+street
+50mmmacro20
+geo:lat=356073322
+geo:lon=1396674881
+geotagged

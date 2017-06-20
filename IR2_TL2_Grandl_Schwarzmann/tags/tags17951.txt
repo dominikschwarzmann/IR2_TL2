@@ -1,0 +1,16 @@
+chess
+chessset
+colors
+brightcolors
+maco
+closeup
+stilllife
+dof
+depthoffield
+blur
+canon
+s5
+canons5
+canons5is
+flash
+darkness

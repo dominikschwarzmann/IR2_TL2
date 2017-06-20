@@ -1,0 +1,5 @@
+floor
+rio
+centro
+arquivo
+chão

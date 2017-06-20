@@ -1,0 +1,10 @@
+window
+color
+blue
+magenta
+rustic
+azul
+rustica
+janela
+antiga
+20faves

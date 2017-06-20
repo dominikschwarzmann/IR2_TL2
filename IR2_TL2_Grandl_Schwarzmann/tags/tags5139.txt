@@ -1,0 +1,17 @@
+loggia
+townhall
+arch
+window
+night
+iraklion
+heraklion
+crete
+greece
+geo:lat=353397
+geo:lon=25134117
+geotagged
+canoneos400d
+canonef35mmf2
+ysplix
+goldenphotographer
+theunforgettablepictures

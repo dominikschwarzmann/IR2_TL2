@@ -1,0 +1,10 @@
+nyc
+manhattan
+greenwichvillage
+street
+cobblestones
+rain
+puddle
+reflection
+gothamist
+project365

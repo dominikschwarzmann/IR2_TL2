@@ -1,0 +1,12 @@
+irlanda
+yellow
+amarillo
+latas
+cerveza
+bear
+puerta
+door
+geotagged
+geo:lat=533474434119
+geo:lon=62603661557
+ireland

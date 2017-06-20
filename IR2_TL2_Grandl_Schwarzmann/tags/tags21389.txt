@@ -1,0 +1,11 @@
+lidodelfusaro
+spiaggiaromana
+bacoli
+cuma
+torregaveta
+geotagged
+geo:tool=gmif
+geo:lat=40814288
+geo:lon=14046047
+1025fav
+soe

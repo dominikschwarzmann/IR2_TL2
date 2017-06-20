@@ -1,0 +1,8 @@
+storage
+jam
+jar
+food
+fimo
+cheese
+mice
+mouse

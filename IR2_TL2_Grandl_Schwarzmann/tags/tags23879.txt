@@ -1,0 +1,10 @@
+bilbao
+ibarrekolanda
+ifc
+ronfricke
+baraka
+nikon
+d80
+geotagged
+geo:lat=432758728955
+geo:lon=295800877291

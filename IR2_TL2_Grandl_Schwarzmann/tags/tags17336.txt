@@ -1,0 +1,5 @@
+workroom
+studio
+craftroom
+crafts
+drawers

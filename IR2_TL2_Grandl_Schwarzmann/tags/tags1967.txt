@@ -1,0 +1,14 @@
+wall
+texture
+light
+sun
+reflections
+bricks
+trier
+germany
+~~~~
+titleisasongby
+thechameleons
+inspiredbytheassassinationof
+johnlennon
+bestofr

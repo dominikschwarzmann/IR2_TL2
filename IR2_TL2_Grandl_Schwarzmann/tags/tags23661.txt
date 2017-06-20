@@ -1,0 +1,12 @@
+dog
+mercury
+silver
+standard
+poodle
+standardpoodle
+flowerchild
+poppy
+orange
+flower
+poppies
+utata:project=tw52

@@ -1,0 +1,6 @@
+rayos
+truenos
+noche
+tormenta
+luz
+relampagos

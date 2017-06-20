@@ -1,0 +1,7 @@
+pyrex
+vintage
+glassware
+crown
+usa
+turquoise
+ramekins

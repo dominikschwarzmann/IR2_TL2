@@ -1,0 +1,9 @@
+gocco
+moleskine
+cahier
+renaissance
+italian
+french
+olive
+blue
+gold

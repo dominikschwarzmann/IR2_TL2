@@ -1,0 +1,6 @@
+vacant
+empty
+deserted
+motel
+hotel
+americana

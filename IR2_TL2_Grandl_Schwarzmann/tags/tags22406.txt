@@ -1,0 +1,15 @@
+miniature
+tiltshift
+effect
+model
+dof
+fake
+elanvalley
+cabancoch
+dam
+bokeh
+frosted
+peppercorn
+wez
+wesley
+bowler

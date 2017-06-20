@@ -1,0 +1,7 @@
+paris
+paname
+france
+75
+metro
+métro
+skytrain

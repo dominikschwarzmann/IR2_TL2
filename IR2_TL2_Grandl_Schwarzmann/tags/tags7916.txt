@@ -1,0 +1,9 @@
+syria
+spices
+colours
+geo:lat=36198781
+geo:lon=37157714
+geotagged
+food
+halab
+aleppo

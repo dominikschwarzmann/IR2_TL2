@@ -1,0 +1,15 @@
+food
+noodles
+korean
+jajang
+jjajang
+myun
+myeon
+blackbean
+sauce
+cucumber
+pork
+onion
+mushroom
+zucchini
+cougette

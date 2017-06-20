@@ -1,0 +1,5 @@
+portrait
+eye
+school
+explore
+explored

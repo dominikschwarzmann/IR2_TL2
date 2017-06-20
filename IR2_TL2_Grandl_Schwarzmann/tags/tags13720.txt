@@ -1,0 +1,6 @@
+always
+make
+new
+mistakes
+error
+nevera

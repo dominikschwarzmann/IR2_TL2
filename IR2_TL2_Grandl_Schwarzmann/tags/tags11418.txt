@@ -1,0 +1,11 @@
+self
+room
+mess
+color
+silueta
+silhouette
+city
+lights
+screen
+persiana
+twisted

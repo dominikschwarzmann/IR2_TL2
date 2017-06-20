@@ -1,0 +1,6 @@
+desk
+room
+office
+home
+shelves
+books

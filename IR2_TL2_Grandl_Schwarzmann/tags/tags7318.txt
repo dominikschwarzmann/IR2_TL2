@@ -1,0 +1,7 @@
+chickens
+hens
+coop
+henhouse
+nestbox
+egg
+laying

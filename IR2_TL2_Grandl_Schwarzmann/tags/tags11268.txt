@@ -1,0 +1,8 @@
+cores
+festival
+dança
+triângulo
+música
+arte
+luz
+movimento

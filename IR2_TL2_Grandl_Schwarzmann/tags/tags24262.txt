@@ -1,0 +1,15 @@
+playingcards
+cards
+king
+queen
+jack
+knave
+bw
+blackandwhite
+cutout
+heart
+red
+psp
+challengeyouwinner
+msh05076
+msh0507

@@ -1,0 +1,4 @@
+istanbul
+book
+photo
+blurb

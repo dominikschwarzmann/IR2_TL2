@@ -1,0 +1,9 @@
+outandabout
+noadjustment
+awesome
+ishotthat
+dbb1
+geo:lat=3309715
+geo:lon=83243666
+geotagged
+georgia

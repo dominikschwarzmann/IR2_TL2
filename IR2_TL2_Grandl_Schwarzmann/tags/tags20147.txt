@@ -1,0 +1,12 @@
+ducati
+s2r
+800cc
+monster
+motorcycle
+bike
+nikon
+d50
+50mm
+geotagged
+geo:lat=42732425
+geo:lon=83162062

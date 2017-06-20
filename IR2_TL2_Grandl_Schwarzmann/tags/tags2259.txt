@@ -1,0 +1,14 @@
+sunset
+sun
+puestadesol
+atardecer
+nubes
+cloud
+sky
+cielo
+geo:lat=15661222
+geo:lon=96556435
+geotagged
+mazunte
+oaxaca
+mexico

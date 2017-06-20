@@ -1,0 +1,7 @@
+new
+york
+7
+train
+buildings
+cars
+city

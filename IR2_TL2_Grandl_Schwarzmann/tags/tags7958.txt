@@ -1,0 +1,6 @@
+light
+lamp
+darkness
+trees
+could
+sky

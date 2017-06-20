@@ -1,0 +1,8 @@
+macro
+flor
+pétalos
+flower
+red
+rojo
+polen
+amarillo

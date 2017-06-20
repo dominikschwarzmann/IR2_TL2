@@ -1,0 +1,10 @@
+rosario
+argentina
+callesarmiento
+callesanlorenzo
+esquina
+tráfico
+autos
+taxis
+automóviles
+tránsito

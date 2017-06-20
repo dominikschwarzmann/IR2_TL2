@@ -1,0 +1,6 @@
+berlin
+architecture
+geo:lat=5252019
+geo:lon=1337431
+geotagged
+regierungsviertel

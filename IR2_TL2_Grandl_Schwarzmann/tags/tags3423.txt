@@ -1,0 +1,12 @@
+anoitecer
+poa
+portoalegre
+centroadministrativo
+ministeriopublico
+suluz
+daluz
+lua
+geo:lat=3004339
+geo:lon=51229441
+geotagged
+explore

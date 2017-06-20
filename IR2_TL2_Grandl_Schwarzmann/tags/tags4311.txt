@@ -1,0 +1,12 @@
+italy
+rome
+roma
+man
+dog
+running
+white
+red
+stairs
+geotagged
+geo:lat=4189047096202587
+geo:lon=1247471151618967

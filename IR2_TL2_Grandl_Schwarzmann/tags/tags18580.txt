@@ -1,0 +1,13 @@
+marienplatz
+u3
+u6
+ubahn
+underground
+orange
+munich
+münchen
+tunnel
+architecture
+ubahnmuenchen:station=mp
+ubahnmuenchen:line=3
+ubahnmuenchen:line=6

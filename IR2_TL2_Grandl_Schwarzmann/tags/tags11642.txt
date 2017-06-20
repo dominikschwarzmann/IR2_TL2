@@ -1,0 +1,7 @@
+people
+dark
+glass
+geo:lat=44502941
+geo:lon=11331711
+geotagged
+bolognangob

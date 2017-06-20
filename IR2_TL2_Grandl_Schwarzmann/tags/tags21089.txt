@@ -1,0 +1,11 @@
+places
+home
+personal
+usa
+seattle
+washington
+artemis
+fans
+bylorena
+architect
+designer

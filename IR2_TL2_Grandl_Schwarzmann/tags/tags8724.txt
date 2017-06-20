@@ -1,0 +1,10 @@
+macro
+water
+drop
+canon
+xti
+70200f4lis
+500d
+purple
+white
+explore

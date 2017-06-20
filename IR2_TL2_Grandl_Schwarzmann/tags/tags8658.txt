@@ -1,0 +1,10 @@
+olpc
+xo
+laptop
+lego
+brick
+camera
+sports
+viewfinder
+usb
+port

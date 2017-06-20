@@ -1,0 +1,5 @@
+hdr
+basilica
+church
+nave
+explored

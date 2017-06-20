@@ -1,0 +1,10 @@
+portugalete
+feria
+child
+esperando
+waiting
+minimal
+minimalism
+geotagged
+geo:lat=43322076
+geo:lon=3019373

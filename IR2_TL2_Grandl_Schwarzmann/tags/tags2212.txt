@@ -1,0 +1,12 @@
+match
+streichholz
+macro
+makro
+g9
+powershot
+blackandwhite
+bw
+schwarzweiss
+sw
+smoke
+rauch

@@ -1,0 +1,6 @@
+buildings
+staircase
+kws100508street
+kws110508street
+flickrdiamond
+diamondclassphotographer

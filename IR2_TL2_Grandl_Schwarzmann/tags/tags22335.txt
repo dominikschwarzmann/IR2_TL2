@@ -1,0 +1,14 @@
+mjm
+pinhole
+camera
+6x9
+120
+format
+rollfilm
+graflex
+matboard
+gaffer
+tape
+aluminum
+can
+d200

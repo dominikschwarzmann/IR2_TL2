@@ -1,0 +1,14 @@
+dogs
+tag
+silver
+standard
+poodle
+standardpoodle
+savannah
+ridgeback
+play
+teeth
+bite
+fierce
+playing
+playingears

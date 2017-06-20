@@ -1,0 +1,9 @@
+book
+rarebook
+antique
+beauty
+read
+habit
+libro
+plumerete
+utata:project=bookclub

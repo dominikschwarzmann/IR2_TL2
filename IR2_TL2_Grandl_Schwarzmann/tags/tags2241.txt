@@ -1,0 +1,8 @@
+horse
+camera
+arab
+palestine
+judea
+stereo
+view
+stereoview

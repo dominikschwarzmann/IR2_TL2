@@ -1,0 +1,11 @@
+boston
+christmas
+christmas2007
+christmaslights
+commonwealthave
+massachusetts
+bostonist
+geo:lat=42352062
+geo:lon=71076865
+geotagged
+explore

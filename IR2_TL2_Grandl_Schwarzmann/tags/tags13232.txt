@@ -1,0 +1,6 @@
+bw
+bn
+carol
+portrait
+light
+dark

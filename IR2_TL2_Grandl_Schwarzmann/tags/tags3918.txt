@@ -1,0 +1,15 @@
+nyc
+d300
+1424mm
+roadshots
+morningshots
+clean
+lines
+exposure
+overexposed
+orton
+softened
+hdr
+singleexposure
+explorewinnersoftheworld
+explore

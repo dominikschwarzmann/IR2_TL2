@@ -1,0 +1,11 @@
+xorroxin
+ura
+urjauzia
+nafarroa
+to1224
+jl07
+ltytr1
+geotagged
+geo:tool=gmif
+geo:lat=43154432
+geo:lon=1454294

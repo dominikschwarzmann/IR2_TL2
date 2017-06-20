@@ -1,0 +1,12 @@
+d40x
+japan
+tokyo
+panorama
+panoramic
+hugin
+360°
+stereographic
+geotagged
+geo:lat=356836464
+geo:lon=1397608606
+nodalninja

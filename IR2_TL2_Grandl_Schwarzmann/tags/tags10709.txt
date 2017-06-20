@@ -1,0 +1,10 @@
+hdr
+hdri
+heiwa4126
+japan
+photomatix
+tokyo
+tokyotower
+geotagged
+geo:lat=356584322
+geo:lon=1397436436

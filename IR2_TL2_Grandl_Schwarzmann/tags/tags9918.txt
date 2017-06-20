@@ -1,0 +1,5 @@
+fake
+polaroid
+starbucks
+coffe
+drink

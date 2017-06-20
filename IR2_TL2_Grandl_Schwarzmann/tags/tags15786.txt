@@ -1,0 +1,11 @@
+alderney
+englishchannel
+channelislands
+cliff
+aurigny
+geo:lat=49706401
+geo:lon=2200677
+geotagged
+tthdr
+hdr
+easyhdr

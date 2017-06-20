@@ -1,0 +1,4 @@
+storefront
+shop
+window
+mannequin

@@ -1,0 +1,12 @@
+me
+self
+selfportrait
+black
+daylight
+sunlight
+blackshadows
+window
+windowframe
+tie
+shirt
+stripedsuit

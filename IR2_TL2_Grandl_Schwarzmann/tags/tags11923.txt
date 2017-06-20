@@ -1,0 +1,8 @@
+dogs
+smalldogs
+lapdogs
+yorkies
+funny
+glasses
+candy
+peewee

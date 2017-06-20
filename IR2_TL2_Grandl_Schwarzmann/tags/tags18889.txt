@@ -1,0 +1,9 @@
+pinhole
+zeroimage
+mediumformat
+fujifilm
+elevator
+storage
+industrial
+zeroimage6x9multiformat
+zero69

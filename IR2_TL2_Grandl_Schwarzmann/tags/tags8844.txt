@@ -1,0 +1,9 @@
+bokeh
+test
+nikkor
+50mm
+f12
+converter
+eos
+canon
+5d

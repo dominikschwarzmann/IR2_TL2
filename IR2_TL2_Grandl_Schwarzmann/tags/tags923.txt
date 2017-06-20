@@ -1,0 +1,9 @@
+branches
+stump
+display
+recycledmaterials
+handmade
+maskingtape
+cardboard
+boxes
+papertowelrolls

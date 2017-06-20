@@ -1,0 +1,14 @@
+piazza
+sqare
+repubblic
+piazzadellarepubblica
+rome
+roma
+italy
+italia
+colors
+night
+romeatnight
+geo:lat=41902825
+geo:lon=12496468
+geotagged

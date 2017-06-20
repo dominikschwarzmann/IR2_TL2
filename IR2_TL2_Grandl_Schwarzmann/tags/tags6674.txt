@@ -1,0 +1,9 @@
+shetland
+scotland
+noss
+puffin
+bird
+fraterculaarctica
+geo:lat=60138855
+geo:lon=1008511
+geotagged

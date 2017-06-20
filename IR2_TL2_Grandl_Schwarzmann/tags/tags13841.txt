@@ -1,0 +1,8 @@
+mozilla24
+shibuya
+tokyo
+2kurabecars
+2kurabecom
+geotagged
+geo:lat=3566590201267736
+geo:lon=13969872325658798

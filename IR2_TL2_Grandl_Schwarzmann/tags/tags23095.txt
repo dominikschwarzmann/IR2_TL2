@@ -1,0 +1,8 @@
+bilbao
+nikon
+d80
+isozaki
+nublado
+geotagged
+geo:lat=432658350025
+geo:lon=29286610007

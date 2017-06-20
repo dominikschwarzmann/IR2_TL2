@@ -1,0 +1,14 @@
+spiralstaircase
+fireescape
+building
+boston
+massachusetts
+stairs
+bostonist
+rust
+geo:lat=42359188
+geo:lon=71058291
+geotagged
+explore
+photodomino523
+photodomino

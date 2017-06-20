@@ -1,0 +1,5 @@
+cell:network=sprintpcs
+pmog
+merci
+green
+car

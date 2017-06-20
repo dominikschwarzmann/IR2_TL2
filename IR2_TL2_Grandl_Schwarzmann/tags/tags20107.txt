@@ -1,0 +1,12 @@
+georgiahistoricalmarker
+ghm01119
+christepiscopalchurch
+nationalregistryplaces
+538566walnutstreet
+macon
+bibbcounty
+georgia
+dbb1
+geo:lat=32838536
+geo:lon=83626213
+geotagged

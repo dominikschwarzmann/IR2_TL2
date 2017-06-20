@@ -1,0 +1,11 @@
+grdigital
+night
+street
+snap
+bw
+yms656
+hiyoshi
+backinblack
+geo:lat=355543125
+geo:lon=1396472772
+geotagged

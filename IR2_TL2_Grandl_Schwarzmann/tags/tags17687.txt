@@ -1,0 +1,8 @@
+london
+shaftesburyavenue
+red
+telephonebox
+phonebox
+yellow
+street
+sign

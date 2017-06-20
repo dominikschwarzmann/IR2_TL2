@@ -1,0 +1,10 @@
+road
+estrada
+terra
+chão
+plantação
+mato
+matagal
+soja
+céu
+sky

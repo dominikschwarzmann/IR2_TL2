@@ -1,0 +1,8 @@
+shop
+front
+diapidated
+french
+paris
+window
+door
+sign

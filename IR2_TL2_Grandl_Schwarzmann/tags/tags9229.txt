@@ -1,0 +1,10 @@
+hdr
+hdri
+heiwa4126
+japan
+nippori
+tokyo
+geotagged
+geo:lat=357279575
+geo:lon=1397701939
+photomatix

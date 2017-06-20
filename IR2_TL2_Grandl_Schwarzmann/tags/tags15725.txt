@@ -1,0 +1,11 @@
+d40x
+japan
+fukuoka
+panorama
+panoramic
+hugin
+360°
+stereographic
+geotagged
+geo:lat=335890767
+geo:lon=1303531997

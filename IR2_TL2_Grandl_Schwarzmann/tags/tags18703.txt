@@ -1,0 +1,7 @@
+22
+bullets
+guns
+highspeed
+jesus
+mary
+blood

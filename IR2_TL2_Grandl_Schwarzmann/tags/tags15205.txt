@@ -1,0 +1,6 @@
+sea
+ship
+blue
+red
+white
+foam

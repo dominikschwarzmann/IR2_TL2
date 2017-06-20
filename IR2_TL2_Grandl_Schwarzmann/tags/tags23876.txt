@@ -1,0 +1,14 @@
+cataratas
+fervenzas
+fervenzasdatoxa
+silleda
+ríasbaixas
+galicia
+spain
+españa
+dsch2
+conlafamilia
+geotagged
+autostitch
+geo:lat=42792074
+geo:lon=8113446

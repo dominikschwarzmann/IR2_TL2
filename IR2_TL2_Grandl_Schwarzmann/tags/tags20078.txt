@@ -1,0 +1,11 @@
+yummy
+raspberry
+tigereye
+food
+tart
+chocolate
+strobist
+vivitar285hv
+flash:maker=vivitar
+flash:mode=285hv
+p1f1

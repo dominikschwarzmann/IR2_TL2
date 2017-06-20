@@ -1,0 +1,13 @@
+pavement
+asphalt
+road
+driveway
+arrow
+line
+black
+white
+red
+exterior
+atlanta
+georgia
+usa

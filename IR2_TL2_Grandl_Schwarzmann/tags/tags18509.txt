@@ -1,0 +1,6 @@
+hannover
+ihk
+industrieundhandelskammer
+geo:lat=52375665
+geo:lon=9751225
+geotagged

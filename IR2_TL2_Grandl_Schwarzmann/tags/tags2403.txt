@@ -1,0 +1,5 @@
+cameraphone
+n95
+meter
+electricitymeter
+currentcost

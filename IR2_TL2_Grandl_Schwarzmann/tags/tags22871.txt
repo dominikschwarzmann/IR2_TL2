@@ -1,0 +1,16 @@
+crete
+creta
+greece
+hellas
+heraklion
+iraklio
+sissi
+sunset
+sea
+summer
+dawn
+sun
+people
+geo:lat=35309251
+geo:lon=25518252
+geotagged

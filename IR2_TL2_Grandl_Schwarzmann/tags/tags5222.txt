@@ -1,0 +1,15 @@
+apple
+mac
+macbook
+advertisement
+laptop
+ipod
+earbuds
+notebook
+pen
+paper
+desk
+working
+programming
+homework
+matlab

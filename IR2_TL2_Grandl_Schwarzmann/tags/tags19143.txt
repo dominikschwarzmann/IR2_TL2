@@ -1,0 +1,10 @@
+cloud
+dark
+storm
+thunder
+rain
+weather
+summer
+grey
+portent
+sky

@@ -1,0 +1,15 @@
+2
+verde
+nikon
+si70200
+lafotodelasemana
+lfs042007
+ltylr1
+decuento
+jl06
+geotagged
+geo:tool=gmif
+geo:lat=43262706
+geo:lon=2950569
+jl07
+hormetan

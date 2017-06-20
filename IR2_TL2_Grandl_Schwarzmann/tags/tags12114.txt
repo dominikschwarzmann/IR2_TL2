@@ -1,0 +1,10 @@
+chess
+chesspieces
+game
+floor
+tilefloor
+black
+white
+bathroom
+toilet
+kindofgross

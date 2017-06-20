@@ -1,0 +1,8 @@
+dog
+labrador
+chow
+white
+yellow
+doggy
+charlie
+retriever

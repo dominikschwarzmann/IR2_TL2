@@ -1,0 +1,6 @@
+geotagged
+geo:lat=3774817
+geo:lon=12245878
+tunnel
+muni
+foresthillstation

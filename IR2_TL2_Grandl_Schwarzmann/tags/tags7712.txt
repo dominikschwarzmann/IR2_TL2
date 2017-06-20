@@ -1,0 +1,16 @@
+dsc0289
+middletown
+pointofrocks
+co
+road
+pave
+dirt
+ride
+rural
+country
+geotagged
+geo:lat=3937338
+geo:lon=77539374
+frednet
+landscape
+fave

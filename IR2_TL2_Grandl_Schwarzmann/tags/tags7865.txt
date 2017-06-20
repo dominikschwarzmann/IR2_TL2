@@ -1,0 +1,11 @@
+geotagged
+geo:tool=gmif
+geo:lat=40933276
+geo:lon=5482650
+tormes
+zubia
+encinas
+jl08
+to1224
+camion
+movimiento

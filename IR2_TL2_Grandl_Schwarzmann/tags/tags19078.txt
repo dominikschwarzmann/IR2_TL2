@@ -1,0 +1,10 @@
+chairs
+doubletree
+escalator
+hotel
+hotellobby
+hotels
+lobby
+prxmeeting
+stairs
+tables

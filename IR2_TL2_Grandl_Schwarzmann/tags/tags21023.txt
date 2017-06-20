@@ -1,0 +1,17 @@
+chile
+santiago
+park
+autumn
+fall
+leaves
+dog
+person
+coat
+cold
+walking
+geotagged
+geo:tool=gmif
+geo:lat=33435658
+geo:lon=70639794
+kinhopizzato
+explorer

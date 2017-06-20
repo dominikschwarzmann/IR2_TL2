@@ -1,0 +1,6 @@
+jt
+text
+type
+vernacular
+character
+5

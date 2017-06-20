@@ -1,0 +1,11 @@
+paris
+rue
+street
+prevost
+ville
+urban
+bw
+noiretblanc
+human
+humain
+marais

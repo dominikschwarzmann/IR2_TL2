@@ -1,0 +1,14 @@
+boston
+parades
+veteransday2007
+police
+cop
+specialoperations
+massachusetts
+geo:lat=42359733
+geo:lon=71058176
+geotagged
+explore
+cops
+bostonist
+universalhub

@@ -1,0 +1,16 @@
+stonehaven
+flickrmeet
+scotland
+harrisshuttereffect
+geo:lat=56946004
+geo:lon=2200012
+geotagged
+colour
+color
+red
+green
+blue
+rgb
+flickr:user=helloiambruce
+flickr:user=pamelaadam
+me

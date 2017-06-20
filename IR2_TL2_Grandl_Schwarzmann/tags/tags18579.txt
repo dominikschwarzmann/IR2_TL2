@@ -1,0 +1,10 @@
+light
+sun
+reflection
+bag
+paper
+nikon
+camera
+case
+dslr
+slr

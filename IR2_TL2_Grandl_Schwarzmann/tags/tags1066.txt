@@ -1,0 +1,7 @@
+airport
+brussel
+bru
+depart
+passing
+gate
+zaventem

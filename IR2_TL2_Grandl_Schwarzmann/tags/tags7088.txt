@@ -1,0 +1,12 @@
+hothead
+stairs
+elevator
+rules
+safety
+stickfigure
+peril
+fire
+head
+warning
+sign
+alteredsign

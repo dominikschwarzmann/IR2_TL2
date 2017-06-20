@@ -1,0 +1,13 @@
+rain
+weather
+downpour
+thundershower
+buckets
+catsanddogs
+mainecoonsandnewfoundlands
+wet
+soggy
+damp
+moist
+humid
+coalandice

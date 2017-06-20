@@ -1,0 +1,4 @@
+accesorios
+accesories
+tijeras
+scissors

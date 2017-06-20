@@ -1,0 +1,11 @@
+windows
+powerbook
+mobilepro
+newton
+hpc
+sharp
+palm
+ipod
+smartphone
+wristpc
+javaring

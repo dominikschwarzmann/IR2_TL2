@@ -1,0 +1,5 @@
+light
+candle
+fire
+flame
+window

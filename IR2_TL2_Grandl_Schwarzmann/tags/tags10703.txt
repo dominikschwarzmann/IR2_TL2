@@ -1,0 +1,7 @@
+food
+japanese
+sushi
+sashimi
+nigiri
+maki
+bridge

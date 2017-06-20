@@ -1,0 +1,13 @@
+d40x
+japan
+tokyo
+panorama
+panoramic
+hugin
+360°
+stereographic
+geotagged
+geo:lat=356489289
+geo:lon=1397568886
+shibaura
+seavance

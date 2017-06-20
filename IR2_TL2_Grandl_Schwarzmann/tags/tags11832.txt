@@ -1,0 +1,5 @@
+egg
+chicken
+hatching
+70300mm
+brown

@@ -1,0 +1,6 @@
+pillars
+shadows
+foundinsf
+geotagged
+geo:lat=3777005
+geo:lon=12246883

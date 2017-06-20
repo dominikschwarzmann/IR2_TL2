@@ -1,0 +1,11 @@
+multiplicity
+show
+changingroom
+dressingroom
+photoshoot
+model
+room
+theater
+dancer
+clone
+kristina

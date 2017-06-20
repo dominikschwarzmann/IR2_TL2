@@ -1,0 +1,6 @@
+missionbicycle
+fixedgear
+fixie
+bicycle
+fixed
+gear

@@ -1,0 +1,7 @@
+apple
+ipod
+ipodtouch
+imac
+macbook
+keyboard
+mightymouse

@@ -1,0 +1,4 @@
+sloth
+southamerican
+mammal
+animal

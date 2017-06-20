@@ -1,0 +1,6 @@
+vintage
+mannequin
+55mm
+f12
+bokeh
+55f12

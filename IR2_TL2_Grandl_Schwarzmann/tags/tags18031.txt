@@ -1,0 +1,8 @@
+bench
+southcarolina
+usc
+horseshoe
+dof
+columbia
+campus
+rest

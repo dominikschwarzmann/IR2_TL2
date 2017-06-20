@@ -1,0 +1,8 @@
+fruta
+cores
+vermelho
+red
+colors
+fruit
+morango
+strawberry

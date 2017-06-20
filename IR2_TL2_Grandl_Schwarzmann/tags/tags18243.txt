@@ -1,0 +1,11 @@
+taipei
+taiwan
+sunset
+poagao
+sky
+traffic
+clouds
+geotagged
+geo:tool=yuancc
+geo:lat=25045851
+geo:lon=121518788

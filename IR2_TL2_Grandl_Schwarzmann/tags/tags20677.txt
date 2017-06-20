@@ -1,0 +1,5 @@
+currency
+money
+banknote
+papermoney
+macro

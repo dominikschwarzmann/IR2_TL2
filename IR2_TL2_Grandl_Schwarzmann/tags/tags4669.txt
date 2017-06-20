@@ -1,0 +1,4 @@
+remake
+blackwhite
+d70
+f0

@@ -1,0 +1,17 @@
+cinema
+movies
+theater
+karatekid
+karate
+delmar
+santacruz
+surf
+usa
+california
+america
+summer
+beach
+fun
+pacific
+coast
+ocean

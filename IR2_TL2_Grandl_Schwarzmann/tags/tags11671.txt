@@ -1,0 +1,12 @@
+ball
+sphere
+orb
+solid
+mexicocity
+street
+red
+series
+alignment
+object
+position
+similar

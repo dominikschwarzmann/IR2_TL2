@@ -1,0 +1,11 @@
+stack
+gadgets
+ipod
+k800i
+lifedrive
+palm
+nds
+ds
+nintendo
+apple
+sonyericsson

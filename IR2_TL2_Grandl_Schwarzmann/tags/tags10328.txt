@@ -1,0 +1,7 @@
+stickfigure
+peril
+funny
+sign
+100
+200
+500

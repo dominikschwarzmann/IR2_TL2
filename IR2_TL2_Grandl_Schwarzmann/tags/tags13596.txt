@@ -1,0 +1,9 @@
+jl07
+ni1870
+zaldia
+lehioa
+pela
+geotagged
+geo:tool=gmif
+geo:lat=40941649
+geo:lon=5586516

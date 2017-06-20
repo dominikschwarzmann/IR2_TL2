@@ -1,0 +1,9 @@
+shibuya
+grdigital
+bw
+yms656
+night
+girl
+geo:lat=356581706
+geo:lon=1397020597
+geotagged

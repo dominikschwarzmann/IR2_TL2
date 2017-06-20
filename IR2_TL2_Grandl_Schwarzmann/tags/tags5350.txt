@@ -1,0 +1,11 @@
+texture
+freefort4l
+permissiontouse
+christielacy
+clpresets
+lightroompresets
+acrpresets
+acr
+lightroom
+presets
+raw

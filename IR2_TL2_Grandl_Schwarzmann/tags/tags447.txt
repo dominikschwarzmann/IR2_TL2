@@ -1,0 +1,8 @@
+valores
+actitudes
+creencias
+conocimientos
+acuerdo
+desacuerdo
+voluntad
+acción

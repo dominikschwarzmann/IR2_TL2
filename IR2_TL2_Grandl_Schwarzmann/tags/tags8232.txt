@@ -1,0 +1,11 @@
+typewriter
+portabletypewriter
+manualtypewriter
+imperial
+imperial230
+cursivetypewriter
+cursive
+red
+ribbon
+typewriterribbon
+explored

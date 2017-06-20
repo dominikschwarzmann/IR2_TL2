@@ -1,0 +1,4 @@
+in
+bag
+handbag
+platinumphoto

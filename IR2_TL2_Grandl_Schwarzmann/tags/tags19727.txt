@@ -1,0 +1,7 @@
+weapons
+ar15
+kac
+rifle
+acog
+knightsarmament
+tactical

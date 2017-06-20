@@ -1,0 +1,15 @@
+gradient
+constant
+tree
+trees
+crops
+village
+363
+sky
+artificial
+edited
+mango
+shadow
+landscape
+land
+ground

@@ -1,0 +1,10 @@
+pch
+bigsur
+pacificcoasthighway
+landscape
+cliffs
+bluff
+sea
+pacific
+route1
+highway1

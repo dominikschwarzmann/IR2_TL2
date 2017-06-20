@@ -1,0 +1,10 @@
+ni1870
+koreak
+jl07
+zuhaitza
+nafarroa
+bertiz
+geotagged
+geo:tool=gmif
+geo:lat=43168754
+geo:lon=1596279

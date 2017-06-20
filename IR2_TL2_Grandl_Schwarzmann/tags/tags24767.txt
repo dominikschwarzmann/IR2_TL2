@@ -1,0 +1,11 @@
+singapore
+hdr
+2exp
+easyhdr
+mosque
+sunrise
+geo:lat=1302079
+geo:lon=103859103
+geotagged
+abigfave
+10faves

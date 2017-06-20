@@ -1,0 +1,8 @@
+black
+white
+pb
+bw
+book
+hear
+cabelo
+bwdreams

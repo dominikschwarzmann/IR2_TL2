@@ -1,0 +1,14 @@
+palinuro
+grotte
+barca
+poldo
+wwwgrottedipalinuroit
+spiaggiadelbuondormire
+blue
+green
+mare
+sea
+geo:lat=40025511
+geo:lon=15291939
+geotagged
+parcodelcilento

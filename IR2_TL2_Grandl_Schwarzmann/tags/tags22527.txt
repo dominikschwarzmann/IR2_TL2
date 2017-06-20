@@ -1,0 +1,9 @@
+stock
+stockmarket
+bovespa
+d40
+1855mm
+economy
+stockexchange
+sãopaulo
+business

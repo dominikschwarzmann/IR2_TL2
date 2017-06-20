@@ -1,0 +1,5 @@
+sign
+signage
+type
+decay
+rust

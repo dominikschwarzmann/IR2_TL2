@@ -1,0 +1,13 @@
+lekeitio
+antzerki
+salto
+jump
+siniestro
+blanco
+negro
+nikon
+d80
+geotagged
+geo:lat=433667215695
+geo:lon=249909463509
+kalean

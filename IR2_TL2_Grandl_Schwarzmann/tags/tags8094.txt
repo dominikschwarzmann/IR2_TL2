@@ -1,0 +1,7 @@
+welded
+metal
+particles
+grey
+smooth
+painted
+touchable

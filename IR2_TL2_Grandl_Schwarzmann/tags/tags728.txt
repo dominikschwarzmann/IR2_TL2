@@ -1,0 +1,5 @@
+grandcentral
+grandcentralstation
+panorama
+stitched
+autostitch

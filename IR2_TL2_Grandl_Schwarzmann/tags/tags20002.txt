@@ -1,0 +1,9 @@
+bristol
+templequay
+mime
+green
+lycra
+geo:lat=51451032
+geo:lon=2581846
+geotagged
+zentai

@@ -1,0 +1,13 @@
+pixel3
+daftpunk
+arrowhall
+concert
+liveconcert
+55200mmvr
+nikon
+nikkor
+internationalcentre
+toronto
+geo:lat=4370263
+geo:lon=79634829
+geotagged

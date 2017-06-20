@@ -1,0 +1,5 @@
+stereo
+3d
+anaglyph
+fungi
+mushroom

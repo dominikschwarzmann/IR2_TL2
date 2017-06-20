@@ -1,0 +1,9 @@
+leaf
+weed
+rain
+red
+macro
+100mm
+droplets
+water
+lfcex0708

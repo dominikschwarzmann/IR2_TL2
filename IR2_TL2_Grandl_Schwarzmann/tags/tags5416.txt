@@ -1,0 +1,5 @@
+apartment
+paloalto
+desk
+setup
+workspace

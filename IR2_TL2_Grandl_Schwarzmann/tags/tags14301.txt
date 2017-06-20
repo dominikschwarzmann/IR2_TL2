@@ -1,0 +1,9 @@
+mustache
+fakemustache
+cigarette
+smoking
+smoke
+nikon
+nikond50
+portrait
+selfportrait

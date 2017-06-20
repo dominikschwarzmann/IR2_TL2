@@ -1,0 +1,7 @@
+bokeh
+night
+5d
+f14
+35mm
+dof
+depthoffield

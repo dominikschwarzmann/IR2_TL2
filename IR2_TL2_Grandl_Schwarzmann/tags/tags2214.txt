@@ -1,0 +1,5 @@
+yes
+no
+yesandno
+lightboxandpaper
+text

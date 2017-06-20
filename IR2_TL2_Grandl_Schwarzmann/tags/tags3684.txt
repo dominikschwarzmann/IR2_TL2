@@ -1,0 +1,11 @@
+red
+man
+snow
+pelicancrossing
+picnik
+stop
+dontwalk
+geotagged
+readybrek
+geo:lat=52487083
+geo:lon=1962039

@@ -1,0 +1,14 @@
+wheel
+global
+village
+other
+me
+gv
+reflection
+water
+rain
+sky
+freij
+light
+ornage
+color

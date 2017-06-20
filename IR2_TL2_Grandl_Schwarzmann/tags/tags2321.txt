@@ -1,0 +1,6 @@
+map
+ortofoto
+carta
+mappa
+piedi
+feet

@@ -1,0 +1,15 @@
+uppsala
+sweden
+blue
+green
+yellow
+orange
+buildings
+sky
+clouds
+karamanis
+explored
+cars
+tree
+windows
+door

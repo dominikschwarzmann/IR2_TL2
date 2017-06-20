@@ -1,0 +1,15 @@
+factory
+highway
+usine
+autoroute
+toulon
+blackwhite
+black
+white
+noirblanc
+noir
+blanc
+bw
+nb
+noiretblanc
+blackandwhite

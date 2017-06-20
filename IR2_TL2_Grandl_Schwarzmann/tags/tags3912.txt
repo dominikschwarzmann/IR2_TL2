@@ -1,0 +1,12 @@
+lego
+foitsop
+tank
+military
+futuristic
+ramm
+quadruped
+tread
+turret
+armor
+städtische
+spinne

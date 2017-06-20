@@ -1,0 +1,16 @@
+wall
+crack
+street
+holes
+rust
+white
+brown
+nyc
+star
+grill
+grid
+decay
+rivets
+plaque
+marks
+cream

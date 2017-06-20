@@ -1,0 +1,6 @@
+square
+bulb
+filament
+blown
+macro
+brainstorm

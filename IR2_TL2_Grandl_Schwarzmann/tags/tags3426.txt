@@ -1,0 +1,8 @@
+bread
+fresh
+market
+morning
+textures
+en
+masse
+dictionary

@@ -1,0 +1,10 @@
+tenaris
+dalmine
+tenarisdalmine
+industry
+watertank
+white
+black
+blacksky
+daylight
+sunlight

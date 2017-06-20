@@ -1,0 +1,12 @@
+bw
+people
+twin
+handicap
+wheelchair
+berlin
+ostbahnhof
+railwaystation
+railroadstation
+geo:lat=52524322
+geo:lon=13369908
+geotagged

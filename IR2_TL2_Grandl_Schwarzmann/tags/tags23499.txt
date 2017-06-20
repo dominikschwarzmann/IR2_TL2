@@ -1,0 +1,12 @@
+grdigital
+japan
+tokyo
+ueno
+panorama
+panoramic
+hugin
+360°
+stereographic
+geotagged
+geo:lat=357118719
+geo:lon=1397763558

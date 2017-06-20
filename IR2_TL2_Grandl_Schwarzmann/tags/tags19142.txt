@@ -1,0 +1,11 @@
+poker
+chips
+casino
+dealer
+hand
+red
+green
+cards
+gamble
+loser
+notinvegas

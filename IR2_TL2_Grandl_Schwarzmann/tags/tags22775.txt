@@ -1,0 +1,14 @@
+palinuro
+cilento
+coniglio
+mare
+isola
+geotagged
+geo:tool=gmif
+geo:lat=40023737
+geo:lon=15294814
+blu
+supershot
+rabbitisland
+wwwgrottedipalinuroit
+parcodelcilento

@@ -1,0 +1,4 @@
+lampara
+luz
+lamp
+light

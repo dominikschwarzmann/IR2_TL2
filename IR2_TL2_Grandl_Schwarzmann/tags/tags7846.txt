@@ -1,0 +1,11 @@
+bench
+walk
+bokeh
+35mm
+30d
+f14
+fall
+autumn
+street
+dof
+depthoffield

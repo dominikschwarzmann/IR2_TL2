@@ -1,0 +1,9 @@
+arch
+plaster
+brick
+paint
+repair
+decay
+disuse
+closed
+blueribbonwinner

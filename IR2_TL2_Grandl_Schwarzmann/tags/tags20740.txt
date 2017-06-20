@@ -1,0 +1,13 @@
+autoservizi
+porta
+door
+vetro
+glass
+riflesso
+reflection
+insegna
+sign
+bn
+bw
+reggioemilia
+italy

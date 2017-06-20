@@ -1,0 +1,7 @@
+volterra
+manicomio
+sanitarium
+decay
+abbandono
+charcot
+pisasocialevent

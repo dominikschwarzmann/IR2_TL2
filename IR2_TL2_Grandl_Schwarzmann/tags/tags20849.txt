@@ -1,0 +1,13 @@
+wales
+blaenavon
+bigpit
+mining
+museum
+mine
+colliery
+scrap
+scrapyard
+rust
+geo:lat=51771712
+geo:lon=3106596
+geotagged

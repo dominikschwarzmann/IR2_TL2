@@ -1,0 +1,7 @@
+boot
+leg
+light
+hand
+ring
+kick
+me

@@ -1,0 +1,7 @@
+paris
+abbesses
+metro
+underground
+geotagged
+geo:lat=4888485
+geo:lon=233877

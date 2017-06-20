@@ -1,0 +1,5 @@
+clouds
+rainclouds
+sun
+rays
+rain

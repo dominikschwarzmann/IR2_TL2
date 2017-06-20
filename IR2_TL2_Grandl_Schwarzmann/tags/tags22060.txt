@@ -1,0 +1,10 @@
+altamontesprings
+florida
+gunrange
+gun
+firing
+explosion
+ref:person=nr
+pistol
+hkuspcompact
+9mm

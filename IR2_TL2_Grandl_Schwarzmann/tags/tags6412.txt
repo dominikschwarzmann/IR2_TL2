@@ -1,0 +1,7 @@
+pacman
+cheese
+food
+madness
+clyde
+pokey
+powerpill

@@ -1,0 +1,8 @@
+volvo
+c30
+hothatch
+hatchback
+new
+car
+vehicle
+black

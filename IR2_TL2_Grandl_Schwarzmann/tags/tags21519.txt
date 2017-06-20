@@ -1,0 +1,12 @@
+finland
+helsinki
+senaatintori
+senatesquare
+icehockey
+jääkiekko
+suomi
+leijonat
+people
+geotagged
+geo:lat=60169734308014
+geo:lon=2495217443488536

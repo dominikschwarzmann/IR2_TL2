@@ -1,0 +1,10 @@
+animals
+wildlife
+birds
+egrets
+snowyegrets
+white
+black
+aquamarine
+water
+feathers

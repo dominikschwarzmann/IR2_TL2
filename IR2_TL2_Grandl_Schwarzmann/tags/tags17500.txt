@@ -1,0 +1,10 @@
+red
+pink
+bathroom
+tub
+blue
+tile
+shower
+curtain
+figure
+leg

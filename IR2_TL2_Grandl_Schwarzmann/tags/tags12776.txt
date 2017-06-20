@@ -1,0 +1,7 @@
+blackberry
+8320
+geotagged
+geo:lat=38232417
+geo:lon=122636652
+geo:alt=9000000
+geonames:feature=5382232

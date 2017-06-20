@@ -1,0 +1,5 @@
+cup
+spoon
+linen
+inmyroom
+texture

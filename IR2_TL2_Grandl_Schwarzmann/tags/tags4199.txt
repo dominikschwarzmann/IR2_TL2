@@ -1,0 +1,7 @@
+boardwalk
+trash
+cups
+cans
+night
+trail
+urban

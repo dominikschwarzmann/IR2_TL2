@@ -1,0 +1,8 @@
+portrait
+face
+ego
+shot
+rosto
+cara
+marcell
+marra

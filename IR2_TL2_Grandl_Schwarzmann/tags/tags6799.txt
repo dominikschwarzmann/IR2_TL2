@@ -1,0 +1,10 @@
+red
+wall
+colours
+lamp
+lamppost
+bright
+toxic
+stripes
+yellow
+orange

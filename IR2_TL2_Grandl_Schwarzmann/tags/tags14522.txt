@@ -1,0 +1,6 @@
+rust
+rusty
+metal
+sculpture
+abstract
+texture

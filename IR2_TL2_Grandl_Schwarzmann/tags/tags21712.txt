@@ -1,0 +1,5 @@
+fragola
+strawberry
+rosso
+frutto
+colore

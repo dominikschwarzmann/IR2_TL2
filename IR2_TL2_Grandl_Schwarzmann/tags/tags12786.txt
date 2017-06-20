@@ -1,0 +1,16 @@
+brique
+brick
+carré
+square
+rouen
+mur
+wall
+symétrie
+4
+symmetry
+rouge
+red
+gris
+grey
+5f
+10f

@@ -1,0 +1,4 @@
+microformats
+sticker
+moleskine
+adactio:post=1323

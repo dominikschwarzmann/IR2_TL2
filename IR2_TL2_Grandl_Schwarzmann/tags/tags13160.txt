@@ -1,0 +1,9 @@
+raw
+malta
+gozo
+rain
+storm
+weather
+thunderstorm
+lightning
+blue

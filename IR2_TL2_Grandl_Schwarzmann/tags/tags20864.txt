@@ -1,0 +1,7 @@
+goth
+lolita
+book
+tobuy
+arnoldbusck
+book:isbn=0714847852
+book:isbn=9780714847856

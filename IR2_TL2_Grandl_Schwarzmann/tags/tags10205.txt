@@ -1,0 +1,6 @@
+gym
+signs
+lettering
+glasgow
+words
+lts

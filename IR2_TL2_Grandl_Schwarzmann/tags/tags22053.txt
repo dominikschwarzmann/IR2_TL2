@@ -1,0 +1,7 @@
+hand
+finger
+button
+knopf
+fahrstuhl
+elevator
+flickrphotoaward

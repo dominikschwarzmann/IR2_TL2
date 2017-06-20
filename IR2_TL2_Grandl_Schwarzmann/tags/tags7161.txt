@@ -1,0 +1,15 @@
+meccano
+toy
+sphere
+geometry
+erector
+fullerene
+football
+ballhexagon
+pentagon
+hexagone
+pentagone
+kroto
+nobel
+prize
+chemistry

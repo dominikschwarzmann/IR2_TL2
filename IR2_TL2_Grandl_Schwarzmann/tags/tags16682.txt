@@ -1,0 +1,8 @@
+sdcc
+sdcc07
+bsg
+battlestargalactica
+comiccon
+sandiego
+kateesackhoff
+starbuck

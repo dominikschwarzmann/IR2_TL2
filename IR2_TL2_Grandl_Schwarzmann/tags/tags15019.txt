@@ -1,0 +1,15 @@
+geotagged
+library
+bibliothek
+fachhochschulbibliothek
+eisenstadt
+wissenschaftlichebibliothek
+academiclibrary
+fh
+burgenland
+shelves
+crash
+austria
+geo:lat=478459
+geo:lon=165181
+österreich

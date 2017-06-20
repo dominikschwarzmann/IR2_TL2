@@ -1,0 +1,6 @@
+blue
+orange
+sky
+aircraftwarning
+ball
+guessedvienna

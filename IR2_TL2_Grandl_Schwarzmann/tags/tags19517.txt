@@ -1,0 +1,11 @@
+saturraran
+itxasoa
+zuribeltza
+sony
+ltytr1
+jl07
+zb
+geotagged
+geo:tool=gmif
+geo:lat=43322930
+geo:lon=2409611

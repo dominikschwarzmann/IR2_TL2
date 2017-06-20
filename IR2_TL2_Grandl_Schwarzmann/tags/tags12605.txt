@@ -1,0 +1,10 @@
+frames
+wall
+art
+blueprintmagazine
+blueprint
+decor
+home
+mirror
+kurthalsey
+familiyroom

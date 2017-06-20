@@ -1,0 +1,11 @@
+portugal
+oporto
+ventnaas
+windows
+sky
+cielo
+clouds
+nubes
+geotagged
+geo:lat=41141121
+geo:lon=8609118

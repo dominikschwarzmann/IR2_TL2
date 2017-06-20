@@ -1,0 +1,9 @@
+gold
+copper
+portal
+door
+entrance
+hotel
+maastricht
+brapke
+aartpennings

@@ -1,0 +1,4 @@
+light
+night
+street
+withouttripod

@@ -1,0 +1,8 @@
+neighbors
+window
+germany
+berlin
+taube
+pigeon
+paloma
+friends

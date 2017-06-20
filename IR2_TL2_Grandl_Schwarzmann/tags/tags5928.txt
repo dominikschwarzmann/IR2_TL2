@@ -1,0 +1,6 @@
+sanpedrodeatacama
+chile
+luna
+geo:lat=2291694500
+geo:lon=6825188833
+geotagged

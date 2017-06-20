@@ -1,0 +1,11 @@
+guitar
+acoustic
+martin
+latch
+dof
+50mm
+50mmf14
+5d
+f14
+depthoffield
+bokeh

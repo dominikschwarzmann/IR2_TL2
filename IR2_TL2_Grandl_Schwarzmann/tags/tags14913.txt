@@ -1,0 +1,15 @@
+d40x
+japan
+tokyo
+asakusa
+sensoji
+temple
+hozomon
+gate
+hdr
+photomatix
+tonemap
+geotagged
+geo:lat=357138267
+geo:lon=1397967264
+hdri

@@ -1,0 +1,11 @@
+paisaje
+ettal
+rojo
+atardecer
+red
+mountains
+montañas
+landscape
+geotagged
+geo:lat=475689750997
+geo:lon=110925489286

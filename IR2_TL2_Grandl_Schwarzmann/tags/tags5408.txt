@@ -1,0 +1,11 @@
+down
+stairs
+scale
+posta
+door
+colors
+red
+rosso
+hell
+giu
+basso

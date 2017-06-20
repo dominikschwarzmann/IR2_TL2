@@ -1,0 +1,8 @@
+hdr
+basement
+house
+rusty
+doors
+light
+stairs
+old

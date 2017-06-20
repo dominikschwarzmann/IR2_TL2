@@ -1,0 +1,8 @@
+eye
+iris
+pupil
+eyelash
+niju
+50mm
+macro
+explored

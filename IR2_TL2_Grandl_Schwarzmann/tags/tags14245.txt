@@ -1,0 +1,8 @@
+rosybindi
+partitodemocratico
+pd
+primarie
+14ottobre
+geo:lat=41900592
+geo:lon=12478377
+geotagged

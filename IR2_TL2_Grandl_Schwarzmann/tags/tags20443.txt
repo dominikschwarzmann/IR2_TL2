@@ -1,0 +1,7 @@
+hongkong
+geo:lat=22284014
+geo:lon=114150074
+geotagged
+interestingness100
+i500
+midlevelelevator

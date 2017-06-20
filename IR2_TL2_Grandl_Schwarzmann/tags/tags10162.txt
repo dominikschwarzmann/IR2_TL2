@@ -1,0 +1,4 @@
+self
+portrait
+bubble
+gum
