@@ -17,22 +17,32 @@ import org.apache.lucene.document.Field;
 import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
+import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.IndexWriterConfig.OpenMode;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.queryparser.classic.ParseException;
+import org.apache.lucene.queryparser.classic.QueryParser;
+import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.Query;
+import org.apache.lucene.search.ScoreDoc;
+import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 
 public class Lucene {
 
+	public Directory dir;
+	Analyzer analyzer;
+
 	public void indexDocuments() throws IOException, ParseException {
-		Path docsPath = Paths.get("tags");
+		Path docsPath = Paths.get("C:/Users/Philipp/Desktop/Eclipsefolder2/IR2_TL2/IR2_TL2_Grandl_Schwarzmann/tags");
 		// final Path docDir = Paths.get(docsPath);
 
-		Directory dir = new RAMDirectory();
-		Analyzer analyzer = new StandardAnalyzer();
+		dir = new RAMDirectory();
+		analyzer = new StandardAnalyzer();
 		IndexWriterConfig iwc = new IndexWriterConfig(analyzer);
 
 		IndexWriter writer = new IndexWriter(dir, iwc);
@@ -106,5 +116,26 @@ public class Lucene {
 				writer.updateDocument(new Term("path", file.toString()), doc);
 			}
 		}
+	}
+
+	public void searchIndex(String searchString, int count) throws IOException, ParseException {
+		IndexReader read = DirectoryReader.open(dir);
+
+		IndexSearcher searcher = new IndexSearcher(read);
+		Query query = new QueryParser("contents", analyzer).parse(searchString);
+		Term t = new Term("contents", searchString);
+		TopDocs docs = searcher.search(query, count);
+
+		ScoreDoc[] hits = docs.scoreDocs;
+		int freq = read.docFreq(t);
+		System.out.println("FREQ " + freq);
+		// 4. display results
+		System.out.println("Found " + hits.length + " hits.");
+		// for (int i = 0; i < hits.length; ++i) {
+		// int docId = hits[i].doc;
+		// Document d = searcher.doc(docId);
+		// System.out.println((i + 1) + ". " + d.get("contents"));
+		// }
+
 	}
 }

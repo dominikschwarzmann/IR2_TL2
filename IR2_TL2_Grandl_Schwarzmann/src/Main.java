@@ -9,6 +9,8 @@ public class Main {
 	public static void main(String[] args) throws IOException, ParseException {
 		Lucene l = new Lucene();
 		l.indexDocuments();
+		l.searchIndex("balearicislands", 10);
+		l.searchIndex("house", 1000);
 
 	}
 }
